@@ -18,7 +18,11 @@
 }
 
 .iconHeartContainer {
-  width: 30%;
+  text-align: center;
+}
+
+.iconHeart {
+  width: 50%;
   margin: auto;
 }
 

@@ -10,7 +10,7 @@ export default function Home() {
       <div className={styles.date}>11th March 1947 - Forever in our Hearts</div>
       <div className={styles.tagLine}>In Loving memory of Pat Campbell</div>
       <div className={styles.iconHeartContainer}>
-        <Image src={'/heart.png'} width={512} height={512} className={styles.iconHeart} alt='image of Pat and Dad' quality={100} />
+        <Image src={'/heart.png'} width={128} height={128} className={styles.iconHeart} alt='image of Pat and Dad' quality={100} />
       </div>
 
     </main>
