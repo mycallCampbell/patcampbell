@@ -13,11 +13,18 @@
 .tagLine {
   margin: 40px;
   text-align: center;
-  font-size: 1.3rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
 .iconHeartContainer {
   width: 30%;
   margin: auto;
+}
+
+.date {
+  margin: 40px;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
 }
